@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b330c72c45bec37",
+        "id": "88b78c61e5f4fcf4",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3710c7a04ab1bb",
+            "id": "61ef0ebc509ee765",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 546.5
   },
   "right": {
     "id": "ad04db45015a03d1",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md"
+              }
             }
           }
         ]
@@ -140,8 +148,29 @@
   },
   "active": "80cd69a68152b249",
   "lastOpenFiles": [
-    "Self/Texas State",
-    "Self",
+    "Computer Science/Data Structures & Algorithms",
+    "Computer Science",
+    "Software/Databases/Relational/MySQL/Learning MySQL 3E",
+    "Software/Databases/Relational/MySQL",
+    "Software/Databases/Relational",
+    "Software/Databases",
+    "Software/Programming/Languages/C++/A Tour of C++ 3E Notes/chapter_1/Chapter 1 - The Basics.md",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_21_algorithms/chapter_21_algorithms.md",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_1_hello_world/hello_world.cpp",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_1_hello_world",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_0_notes_to_the_reader",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets.md",
+    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_21_algorithms",
+    "Software/Programming/Challenges/LeetCode/Array/1_two_sum.md",
+    "Software/Programming/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets/map.cpp",
+    "Software/Programming/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets.md",
+    "Software/Servers/Ubuntu Server/Post-installation.md",
+    "Software/Programming/C++/A Tour of C++ 3E Notes/Chapter 1 - The Basics.md",
+    "Self/todo.md",
+    "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+    "Self/Curriculum.md",
+    "README.md",
+    "Software/Servers/Ubuntu Server/Setup.md",
     "Untitled.md"
   ]
 }
