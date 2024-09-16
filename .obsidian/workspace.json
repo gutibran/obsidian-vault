@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+                "file": "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2da23882af5e20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/CompTIA SY0-701 Study Guide/Chapter 2 - Understanding Identity and Access Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 356.5
   },
   "right": {
     "id": "ad04db45015a03d1",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+                "file": "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+                "file": "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md"
+                "file": "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md"
               }
             }
           }
@@ -146,31 +158,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cd69a68152b249",
+  "active": "61ef0ebc509ee765",
   "lastOpenFiles": [
-    "Computer Science/Data Structures & Algorithms",
-    "Computer Science",
-    "Software/Databases/Relational/MySQL/Learning MySQL 3E",
-    "Software/Databases/Relational/MySQL",
-    "Software/Databases/Relational",
-    "Software/Databases",
+    "Cybersecurity/Certifications/CompTIA Network+ (N10-009)",
+    "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/CompTIA SY0-701 Study Guide",
+    "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/CompTIA SY0-701 Study Guide/Chapter 1 - Master Security Basics.md",
+    "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/CompTIA SY0-701 Study Guide/Chapter 2 - Understanding Identity and Access Management.md",
+    "Self/todo.md",
+    "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P4 - Polynomials.md",
+    "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md",
+    "Untitled.md",
+    "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites",
+    "Mathematics/College Algebra/College Algebra 7E",
+    "Mathematics/College Algebra",
+    "Mathematics",
+    "Cybersecurity/SIEMs/Wazuh/John Hammond Intro.md",
+    "Cybersecurity/Virtualbox.md",
+    "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
+    "Cybersecurity/SIEMs/Wazuh/Untitled",
+    "Cybersecurity/SIEMs/Wazuh",
+    "Cybersecurity/SIEMs",
+    "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/Professor Messer Security (SY0-701) Videos",
+    "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)",
     "Software/Programming/Languages/C++/A Tour of C++ 3E Notes/chapter_1/Chapter 1 - The Basics.md",
     "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_21_algorithms/chapter_21_algorithms.md",
-    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_1_hello_world/hello_world.cpp",
-    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_1_hello_world",
-    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_0_notes_to_the_reader",
     "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets.md",
-    "Software/Programming/Languages/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_21_algorithms",
     "Software/Programming/Challenges/LeetCode/Array/1_two_sum.md",
-    "Software/Programming/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets/map.cpp",
     "Software/Programming/C++/Programming Principles and Practice Using C++ 3E Notes/chapter_20_maps_and_sets/chapter_20_maps_and_sets.md",
     "Software/Servers/Ubuntu Server/Post-installation.md",
     "Software/Programming/C++/A Tour of C++ 3E Notes/Chapter 1 - The Basics.md",
-    "Self/todo.md",
-    "Software/Debuggers/GDB/The Art of Debugging 1E Notes/Chapter 1 - Some preliminaries for beginners and pros.md",
     "Self/Curriculum.md",
     "README.md",
-    "Software/Servers/Ubuntu Server/Setup.md",
-    "Untitled.md"
+    "Software/Servers/Ubuntu Server/Setup.md"
   ]
 }
