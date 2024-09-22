@@ -27,14 +27,67 @@ When $c$ is negative, find two numbers with opposite signs whose sum is the coef
 
 These are both based on the signage of $c$.
 
+These steps work when the leading coefficient is greater than or equal to 1. The steps also apply to trinomials in two variables.
+
 # Factoring the difference of two squares
+This is the **reversal of the special product for the sum and difference of two terms.** 
+$$
+A^2-B^2= (A+B)(A+B)
+$$
+
+## Repeated factorization
+This checking if there are any terms that can be factored further. It is beneficial to know the properties of exponents to "catch" these. Look for special products.
+$$
+x^4 - 81
+$$
+
+$$
+(x^2 -9)(x^2+9)
+$$
+$(x^2-9)$ is a special product so it can be factored further which results in this.
+
+$$
+(x^2+9)(x+3)(x-3)
+$$
 
 # Factoring perfect square trinomials
+This is the **reversal of the special product for squaring binomials**. Remember that the signage of the factored expression is determined by the operator between the first and second operands. In the example below between $A^2$ and $2AB$.
+$$
+A^2 + 2AB + B^2 = (A+B)^2
+$$
+$$
+A^2-2AB+B^2=(A-B)^2
+$$
 
 # Factoring the sum or difference of two cubes
+Same concept but for the cubes. This is the **reversal of the special product for the sum or difference of cubes**.
+$$
+A^3 + B^3 = (A+B)(A^2-AB+B^2)
+$$
+$$
+A^3-B^3=(A-B)(A^2+AB+B^2)
+$$
 
+The acronym **SOAP** is useful for remembering the form.
+- **S**ame signs refers to the binomial signage is the same as the cubed binomial
+- **O**pposite signs refers to the signage between the first and second operand in the triomial which is different from the binomial factor
+- **A**lways positive refers to the signage between the second and third operands in the trinomial
+
+So my question is how do Derive these process mathematically. I know that the processes exist and always work but why? I know the processes are memorized.
+
+**Memorize the special forms forward and backwards for factoring aspect of the test**
 # The general strategy for factoring polynomials
+The order of the factors does not matter because of the commutative property.
+
+1. If there is a common factor, factor out the GCF
+2. Based on the number of terms in the polynomial try a method.
+	- if there are two terms try a special form
+		- difference of two squares
+		- sum of two cubes
+		- difference of two cubes
+	- if there are three terms, check if it is a perfect square trinomial and use one of the special forms, otherwise brute force the regular method
+	- if there are four or more terms try factoring by grouping
+3. check if more than one term can be factored further
 
 # Factoring algebraic expressions containing fractional parts and negative exponents
-
-Wake up early to finish this section and read the philosophy paper
+Go to the tutoring center for this one.
