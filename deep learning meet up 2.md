@@ -1,0 +1,10 @@
+- MNIST
+- Tensorflow
+- Keras is used to build the models
+- have to turn the data into a vector, this is mandatory
+- CIFAR10,
+- check out keras datasets libraries
+- normalize data
+- rectified linear unit -> make points linear by rectifying (changing)the negative numbers to zero
+- all nodes have to sum up to one, since the model deals with probabilities
+- how to train a nerual network with mnist library and tensorflwo

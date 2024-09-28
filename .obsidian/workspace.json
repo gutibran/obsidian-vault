@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5f5543415c0c2e",
+        "id": "68a66cc96afddb11",
         "type": "tabs",
         "children": [
           {
-            "id": "45317b2eed228136",
+            "id": "ec91895c66063401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/todo.md",
+                "file": "Software/Interview Prep/LeetCode/Two Pointers/26 - Remove duplicates from sorted array/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c094338c4980fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deep learning meet up 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/todo.md",
+                "file": "deep learning meet up 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/todo.md",
+                "file": "deep learning meet up 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/todo.md"
+                "file": "deep learning meet up 2.md"
               }
             }
           }
@@ -146,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45317b2eed228136",
+  "active": "80cd69a68152b249",
   "lastOpenFiles": [
+    "README.md",
+    "deep learning meet up 2.md",
+    "Software/Interview Prep/LeetCode/Two Pointers/26 - Remove duplicates from sorted array/Notes.md",
+    "Software/Interview Prep/LeetCode/Two Pointers/26 - Remove duplicates from sorted array",
+    "Software/Interview Prep/LeetCode/Two Pointers",
+    "Software/Interview Prep/LeetCode",
+    "Software/Interview Prep",
+    "Self",
     "Self/Schedule.md",
     "Self/todo.md",
     "Self/Untitled.md",
@@ -160,15 +181,9 @@
     "CAD (Computer Aided Design)",
     "Self/basedcompute.com/Computer Hardware",
     "Self/basedcompute.com/Laptop",
-    "Self/basedcompute.com",
-    "Self/ChatGPT Conversations",
-    "README.md",
-    "Self",
     "get money.md",
     "todo.md",
     "Computer Science/Artificial Intelligence/CS50 AI 2024/Lecture 0 - Search.md",
-    "Computer Science/Artificial Intelligence/CS50 AI 2024",
-    "Computer Science/Artificial Intelligence",
     "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P6 - Rational Expressions.md",
     "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P5 - Factoring Polynomials.md",
     "Mathematics/College Algebra/College Algebra 7E/Chapter 1 -  Equations and inequalities/Section 1.6 - Other types of equations.md",
@@ -181,8 +196,6 @@
     "Cybersecurity/Certifications/CompTIA Security+ (SY0-701)/CompTIA SY0-701 Study Guide/Chapter 2 - Understanding Identity and Access Management.md",
     "Cybersecurity/SIEMs/Wazuh/John Hammond Intro.md",
     "Mathematics/Miscellanoue/Installing a Linker program for TI-84 on Linux.md",
-    "Self/Texas State/Fall 2024/CS-2308/Week 4/Questions.md",
-    "Mathematics/College Algebra/College Algebra 7E/Chapter 1 -  Equations and inequalities/Section 1.4 - Complex Numbers.md",
-    "Mathematics/College Algebra/College Algebra 7E/Chapter 0 - Prerequisites/Section P4 - Polynomials.md"
+    "Self/Texas State/Fall 2024/CS-2308/Week 4/Questions.md"
   ]
 }
